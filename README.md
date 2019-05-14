@@ -1,1 +1,1 @@
-# Naiver-Bayes
+# Naive-Bayes
